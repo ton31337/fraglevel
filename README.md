@@ -4,11 +4,11 @@ Memory fragmentation is when most of your memory is allocated in a large number 
 
 Compile
 ======================
-gcc -o fraglevel fraglevel.c
+`gcc -o fraglevel fraglevel.c`
 
 Run
 ======================
-./fraglevel
+`./fraglevel`
 
 Output
 ======================
